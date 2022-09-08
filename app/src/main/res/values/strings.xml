@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Form</string>
+    <string name="head">Coffee Review</string>
+    <string name="name">First Name</string>
+    <string name="phone">Phone no.</string>
+    <string name="product">"Product "</string>
+    <string name="rating">Rating</string>
+</resources>
